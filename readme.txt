@@ -10,3 +10,8 @@ Now, try to merge all these commits in one commit.
 2.Add sth here first.
 3.Fix code...
 4.done. commit and comments.
+
+===============
+1.第一次提交
+2.第二次提交
+3.第三次提交
